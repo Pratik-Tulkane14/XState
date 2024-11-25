@@ -85,7 +85,7 @@ function App() {
       </div>
       <div>
         <p>
-          {city && `You Selected ${city}, ${state}, ${country}`}
+          {city && `You selected ${city}, ${state}, ${country}`}
           </p>
       </div>
     </>
